@@ -18,8 +18,7 @@ uploads/
 temp/
 tmp/
 
-# Modèles IA (si tu ne veux pas les versionner)
-models/
+
 
 # FFmpeg
 tools/ffmpeg.exe
