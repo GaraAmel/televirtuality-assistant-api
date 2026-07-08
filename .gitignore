@@ -1,0 +1,48 @@
+# Environnement virtuel
+venv/
+venv311/
+env/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichiers temporaires
+*.tmp
+*.log
+
+# Données de test
+uploads/
+temp/
+tmp/
+
+# Modèles IA (si tu ne veux pas les versionner)
+models/
+
+# FFmpeg
+tools/ffmpeg.exe
+
+# Cloudflare
+cloudflared.exe
+
+# Fichiers vidéo/audio
+*.mp4
+*.avi
+*.mov
+*.wav
+*.mp3
+
+# Variables d'environnement
+.env
+
+# Notebook
+.ipynb_checkpoints/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
