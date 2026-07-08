@@ -1,7 +1,15 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+
 fastapi
-uvicorn
+uvicorn[standard]
 python-multipart
 requests
+
+torch
+torchvision
 ultralytics
-numpy
+
+opencv-python-headless
+numpy<2
+
 openai-whisper
